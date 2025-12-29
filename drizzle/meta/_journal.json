@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1767043561021,
+      "tag": "0000_confused_millenium_guard",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1767043685018,
+      "tag": "0001_new_wild_pack",
+      "breakpoints": true
+    }
+  ]
+}
